@@ -1,5 +1,15 @@
 [
   {
+    "slug": "qianziwen",
+    "title": "千字文（全文 · 拼音 · 逐句释义）",
+    "tags": [],
+    "date": "2026-01-27T12:37",
+    "summary": "",
+    "cover": "/blogs/qianziwen/d248bdc4aab6706d.png",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "gh552g_usb-blaster",
     "title": "给基于 GH552G 的 USB-Blaster 编程器重新刷写固件",
     "tags": [],
