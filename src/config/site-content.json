@@ -63,10 +63,10 @@
 			"order": 1
 		},
 		{
-			"id": "button-1769484844366",
-			"type": "bilibili",
-			"value": "#",
-			"label": "",
+			"id": "button-1769521631029",
+			"type": "link",
+			"value": "https://cattk.com",
+			"label": "HamRadio",
 			"order": 4
 		}
 	],
@@ -79,7 +79,7 @@
 	"hatFlipped": false,
 	"enableChristmas": false,
 	"beian": {
-		"text": "",
-		"link": ""
+		"text": "© 2024–2026 Cattk · cattk.com",
+		"link": "https://cattk.com"
 	}
 }

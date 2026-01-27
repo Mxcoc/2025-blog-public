@@ -33,8 +33,8 @@
 		"enabled": true
 	},
 	"musicCard": {
-		"width": 298,
-		"height": 58,
+		"width": 300,
+		"height": 60,
 		"offset": 120,
 		"order": 6,
 		"offsetX": 257,
@@ -61,8 +61,8 @@
 		"width": 341,
 		"height": 183,
 		"order": 8,
-		"offsetX": -565,
-		"offsetY": 201,
+		"offsetX": -536,
+		"offsetY": 187,
 		"enabled": true
 	},
 	"writeButtons": {
@@ -77,16 +77,16 @@
 		"width": 334,
 		"height": 435,
 		"order": 2,
-		"offsetX": -563,
-		"offsetY": -291,
+		"offsetX": -558,
+		"offsetY": -285,
 		"enabled": true
 	},
 	"likePosition": {
-		"width": 56,
+		"width": 57,
 		"height": 55,
 		"order": 8,
-		"offsetX": 316,
-		"offsetY": 362,
+		"offsetX": -274,
+		"offsetY": 410,
 		"enabled": true
 	},
 	"hatCard": {
@@ -98,11 +98,11 @@
 		"enabled": false
 	},
 	"beianCard": {
-		"width": 200,
+		"width": 300,
 		"height": 60,
 		"order": 11,
-		"offsetX": null,
-		"offsetY": null,
-		"enabled": false
+		"offsetX": 260,
+		"offsetY": 360,
+		"enabled": true
 	}
 }
