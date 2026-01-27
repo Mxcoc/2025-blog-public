@@ -44,23 +44,30 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
-			"label": "Github",
+			"value": "#",
+			"label": "",
 			"order": 3
 		},
 		{
 			"id": "juejin",
 			"type": "tg",
-			"value": "$",
-			"label": "X",
+			"value": "#",
+			"label": "",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "cattk@cattk.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1769484844366",
+			"type": "bilibili",
+			"value": "#",
+			"label": "",
+			"order": 4
 		}
 	],
 	"clockShowSeconds": true,
