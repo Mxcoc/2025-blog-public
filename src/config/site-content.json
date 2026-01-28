@@ -71,7 +71,7 @@
 		}
 	],
 	"clockShowSeconds": true,
-	"summaryInContent": false,
+	"summaryInContent": true,
 	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
